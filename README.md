@@ -1,44 +1,50 @@
-🚖 Uber New York City Data Analysis (EDA Project)
+# 🚖 Uber New York City Data Analysis (EDA Project)
 
-(Replace this path with your actual image path)
+![Uber NYC Analysis](images/uber_analysis_cover.png)  
+*(Replace this path with your actual image path)*
 
-📑 Project Overview
-This project focuses on Exploratory Data Analysis (EDA) of Uber pickup data in New York City.
-The main goal is to uncover insights from the data related to rush hours, active Uber bases, and spatial distribution of pickups.
+---
 
-📊 Key Highlights
-Data Collection & Cleaning
-Imported and cleaned the raw Uber NYC pickup data for analysis.
+## 📑 Project Overview
 
-Hourly Rush Analysis
-Identified peak hours with the highest pickup demand.
+This project focuses on **Exploratory Data Analysis (EDA)** of Uber pickup data in **New York City**.  
+The main goal is to uncover insights from the data related to **rush hours**, **active Uber bases**, and **spatial distribution** of pickups.
 
-Most Active Uber Bases
-Analyzed and visualized which Uber dispatch bases were the most active across different periods.
+---
 
-Spatial (Geographical) Analysis
-Mapped pickup locations to uncover rush hour hotspots across the city.
+## 📊 Key Highlights
 
-Data Visualization
-Used Python libraries like Pandas, Matplotlib, and Seaborn to create insightful plots and heatmaps.
+- **Data Collection & Cleaning**  
+  Imported and cleaned the raw Uber NYC pickup data for analysis.
 
-🛠️ Tech Stack
-Python 3.x
+- **Hourly Rush Analysis**  
+  Identified peak hours with the highest pickup demand.
 
-Pandas
+- **Most Active Uber Bases**  
+  Analyzed and visualized which Uber dispatch bases were the most active across different periods.
 
-NumPy
+- **Spatial (Geographical) Analysis**  
+  Mapped pickup locations to uncover rush hour hotspots across the city.
 
-Matplotlib
+- **Data Visualization**  
+  Used Python libraries like **Pandas**, **Matplotlib**, and **Seaborn** to create insightful plots and heatmaps.
 
-Seaborn
+---
 
-Folium (for geographic mapping)
+## 🛠️ Tech Stack
 
-📂 Project Structure
-bash
-Copy
-Edit
+- **Python 3.x**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Folium** (for geographic mapping)
+
+---
+
+## 📂 Project Structure
+
+
 Uber-NYC-EDA/
 │
 ├── data/                 # Raw and cleaned data files
@@ -46,28 +52,11 @@ Uber-NYC-EDA/
 ├── notebooks/            # Jupyter notebooks
 ├── README.md             # Project README
 └── requirements.txt      # List of Python libraries
-📈 Sample Visualizations
-Hourly Pickup Rush
 
-Spatial Heatmap of Pickups
-
-🚀 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/uber-nyc-eda.git
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Open the Jupyter notebook and start exploring!
 
 📬 Contact
 For any queries or feedback:
 Sudesh Bagwe — sudeshbagawe@gmail.com
+```bash
 
 
