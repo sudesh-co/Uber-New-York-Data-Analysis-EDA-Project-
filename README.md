@@ -1,7 +1,6 @@
 # 🚖 Uber New York City Data Analysis (EDA Project)
 
 ![Uber NYC Analysis](/images/uber_eda.png)  
-*(Replace this path with your actual image path)*
 
 ---
 
